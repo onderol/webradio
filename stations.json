@@ -1,0 +1,34 @@
+{
+"stations": [
+		{"name": "Best Fm", "url": "http://bestfm.turkhosted.com"},
+		{"name": "Radyo Voyage", "url": "http://voyagewmp.radyotvonline.com/"},
+		{"name": "Joy Türk", "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK2.mp3"},
+		{"name": "Süper Fm ", "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3"},
+		{"name": "Slow Türk ", "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk?/;stream.mp3"},
+		{"name": "Radyo Viva", "url": "http://46.20.3.231"},
+		{"name": "PowerTürk FM", "url": "http://listen.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8"},
+		{"name": "PowerTürk Akustik", "url": "http://listen.powerapp.com.tr/powerturkakustik/abr/powerturkakustik/128/playlist.m3u8"},
+		{"name": "Power FM", "url": "http://listen.powerapp.com.tr/powerfm/abr/powerfm/128/playlist.m3u8"},
+		{"name": "Metro FM", "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM.mp3"},
+		{"name": "Alem Fm", "url": "http://scturkmedya.radyotvonline.com/stream/80/ "},
+		{"name": "Fenomen", "url": "http://fenomen.listenfenomen.com/fenomen/128/icecast.audio "},
+		{"name": "Fenomen Akustik", "url": "http://fenomenakustik.listenfenomen.com/fenomenakustik/128/icecast.audio"},
+		{"name": "Fenomen Dans", "url": "http://fenomendans.listenfenomen.com/fenomendans/128/icecast.audio"},
+		{"name": "Fenomen Karışık", "url": "http://fenomenkarisik.listenfenomen.com/fenomenkarisik/128/icecast.audio"},
+		{"name": "Fenomen Oriental", "url": "http://fenomenoriental.listenfenomen.com/fenomenoriental/128/icecast.audio"},
+		{"name": "Fenomen Pop", "url": "http://fenomenoriental.listenfenomen.com/fenomenpop/128/icecast.audio"},
+		{"name": "Kral Fm", "url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8"},
+		{"name": "Kral Pop", "url": "https://dygedge.radyotvonline.net/kralpop/playlist.m3u8"},
+		{"name": "Mydonose Türk", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC016_SO1_SC?/;stream.mp3"},
+		{"name": "POP90", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/POP90.mp3"},
+		{"name": "Romantik Türk", "url": "http://radyo.yayin.com.tr:6042/; "},
+		{"name": "Samsun Tutku Fm", "url": "http://yayin2.yayindakiler.com:4038/;"},
+		{"name": "Amasya Radyo (Art)", "url": "https://59cba4d34b678.streamlock.net/radyo/artfm/playlist.m3u8"},
+		{"name": "Amasya Esinti Fm", "url": "https://stream.zenolive.com/yzg9n0sma8zuv"},
+		{"name": "Ntv Radyo", "url": "http://ntvrdwmp.radyotvonline.com/; "},
+		{"name": "Haberturk Radyo", "url": "https://ciner-live.ercdn.net/haberturkradyo/haberturkradyo_1.m3u8"}
+	]
+}
+
+
+

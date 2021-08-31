@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Web Radio</title>
+	<HTA:APPLICATION 
+	ID="webRadio" 
+	APPLICATIONNAME="Web Radio" 
+	ICON="assets/img/icon.ico"
+	INNERBORDER="no"
+	MAXIMIZEBUTTON="yes"
+	MINIMIZEBUTTON="yes"
+	WINDOWSTATE="maximize"
+	SINGLEINSTANCE="yes"
+    SYSMENU="yes"
+	/>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link href="assets/css/app.css" rel="stylesheet" />
+	<script src="assets/js/jquery-1.12.4.min.js"></script>
+	<script src="assets/js/jquery-migrate-1.4.1.min.js"></script>
+</head>
+
+<body>
+	<div id="page">
+	
+
+		
+		<div id="status"> ... </div>
+				
+		<div id="stations">
+
+		</div>
+
+		<div id="cmds">
+			<input type="button" value="&#9744;" onclick="Stop(1);"/>
+			<input type="button" value="&#10006;" onclick="Close(1);"/>
+			<input type="button" value="&#9836;" id="VolMute" onclick="VolMute(1);"/>
+			<input type="button" value="+" onclick="VolUp(1);"/>
+			<input type="button" value="-" onclick="VolDown(1);"/>
+		</div>
+
+	</div>
+
+	<script src="assets/js/app.js"></script>
+
+</body>
+</html>

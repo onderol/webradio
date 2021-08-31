@@ -1,0 +1,75 @@
+body{
+	margin:0;
+	padding:0;
+	font-family: Tahoma, sans-serif;
+	font-size:16px;
+	color:#000;	
+	cursor:default;
+}
+
+#page{	
+	padding:40px 0;
+}
+
+#status{
+	margin-bottom:17px;
+	text-align:center;
+	color:red;
+}
+
+/*
+#stationList{
+width:100%;	
+}
+
+#stationList ul{
+	text-align:center;
+}
+
+#stationList ul li{
+list-style:none;
+display:inline-block;
+border:1px solid red;
+width:120px;
+height:50px;	
+}
+
+#stationList ul li a{
+display:block;	
+}
+*/
+
+#stations{
+	width:100%;	
+	text-align:center;
+}
+
+#stations button{
+	width:220px;
+	height:50px;
+	font-size:16px;
+	font-weight:bold;
+	margin:0 17px 17px 0;
+	cursor:pointer;	
+}
+
+.muted{
+	color:red;
+}
+
+#cmds{
+	text-align:center;	
+	width:100%;
+	position:fixed;
+	bottom:0;
+	padding:17px 0;
+}
+
+#cmds input{
+	width:60px;
+	height:60px;
+	font-size:28px;
+	font-weight:bold;
+	margin:0 7px;
+	cursor:pointer;
+}
